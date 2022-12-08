@@ -21,7 +21,7 @@ Type Script
 
 <br/>
 
-#### 2. TS基础类型的写法
+### 一. TS基础类型的写法
 * boolean string number undefined null array
 ```js
     // es
